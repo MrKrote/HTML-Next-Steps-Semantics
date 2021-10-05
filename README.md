@@ -42,11 +42,13 @@
 ```<sub></sub>``` - lentre "emelés"
 
 
+&nbsp;
 >
 > HTML: Next Steps & Semantics
 > 
 > Entity Codes
->
+
+&nbsp;
 **Website:** https://dev.w3.org/html5/html-author/charref
 
 - start with an ampersand & and end with a semicolon ;
@@ -60,13 +62,13 @@ CopyRight jel: ```&copy;```
 
 less than : ```&gt;```
 
-
+&nbsp;
 >
 > HTML: Next Steps & Semantics
 >
 > Semantic Markup - too much ```<dev></dev>``` !!
 >
-
+&nbsp;
 "What purpose or role does that HTML element have?"
 
 **Pl:** Use more specific elements like:
@@ -81,12 +83,13 @@ less than : ```&gt;```
 <summary></summary>
 <details></details> 
 ```
-
+&nbsp;
 >
 > HTML: Next Steps & Semantics
 >
 > VSCode Tool - Emmet
 >
+&nbsp;
 
 **Website** - https://docs.emmet.io/cheat-sheet/
 
