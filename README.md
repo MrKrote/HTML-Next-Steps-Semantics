@@ -81,3 +81,40 @@ less than : ```&gt;```
 <details></details> 
 ```
 
+>
+> HTML: Next Steps & Semantics
+>
+> VSCode Tool - Emmet
+>
+
+**Website** - https://docs.emmet.io/cheat-sheet/
+
+
+**nav>ul>li =**
+```
+<nav> 
+    <ul> 
+        <li></li> 
+    </ul> 
+</nav> 
+```
+**ul>li*5 =**
+```
+<ul> 
+    <li></li> 
+    <li></li>
+    <li></li> 
+    <li></li> 
+    <li></li> 
+</ul> 
+```
+**ul>li.item$*5 =**
+```
+<ul> 
+    <li class="item1"></li> 
+    <li class="item2"></li> 
+    <li class="item3"></li> 
+    <li class="item4"></li> 
+    <li class="item5"></li> 
+</ul>  
+```
