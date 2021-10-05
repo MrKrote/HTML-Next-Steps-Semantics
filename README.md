@@ -55,6 +55,6 @@
 **Pl:**
 CopyRight jel: ```&copy;```
 
-< : ```&lt;``` 
- > : ```&gt;```
+< greater then : ```&lt;``` 
+less than : ```&gt;```
 
