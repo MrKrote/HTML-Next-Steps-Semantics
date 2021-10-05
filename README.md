@@ -17,11 +17,12 @@
 
 ```<span></span>``` - allow to group content together and style it all at once. **Pl:** Redditen a Media,Discussion,Question fül.
 
-
+&nbsp;
 >
 > HTML: Next Steps & Semantics
 >
->
+
+&nbsp;
 **The Thematic Break element:(Horizontal Rule)**
 
 ```<hr>``` - doesn't have closing tag. represents a thematic break between paragraph-level elements. Pl: egy sztori vége,topic vége stb..
