@@ -41,10 +41,20 @@
 ```<sub></sub>``` - lentre "emelés"
 
 
-
 >
 > HTML: Next Steps & Semantics
+> Entity Codes
 >
->
+-  https://dev.w3.org/html5/html-author/charref
 
+- start with an ampersand & and end with a semicolon ;
+
+- used to display reserved or difficult characters
+
+**Pl:**
+CopyRight jel: ```&copy;```
+
+< : ```&lt;```
+
+> : ```&gt;```
 
