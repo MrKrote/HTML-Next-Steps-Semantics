@@ -41,7 +41,9 @@
 **The Subscript element:**
 
 ```<sub></sub>``` - lentre "emelés"
+
 &nbsp;
+
 >
 > HTML: Next Steps & Semantics
 > 
