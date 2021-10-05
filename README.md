@@ -1,5 +1,5 @@
 # HTML-Next-Steps-Semantics
->
+> HTML: Next Steps & Semantics
 > Inline Elements vs Block Elements
 >
 >
@@ -11,8 +11,13 @@
 
 - Content Division Element: (BLOCK ELEMENTS)
 
-```<div></div>``` - allow to group content together and style it all at once. Pl: Tigris és alatta szöveg.
+```<div></div>``` - allow to group content together and style it all at once. **Pl:** Tigris és alatta szöveg.
 
 - Span: (INLINE ELEMENTS)
 
-```<span></span>``` - allow to group content together and style it all at once. Pl: Redditen a Media,Discussion,Question fül.
+```<span></span>``` - allow to group content together and style it all at once. **Pl:** Redditen a Media,Discussion,Question fül.
+
+>
+> HTML: Next Steps & Semantics
+>
+>
