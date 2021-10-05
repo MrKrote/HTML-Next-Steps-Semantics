@@ -16,13 +16,10 @@
 - Span: (INLINE ELEMENTS)
 
 ```<span></span>``` - allow to group content together and style it all at once. **Pl:** Redditen a Media,Discussion,Question fül.
-
 &nbsp;
 >
 > HTML: Next Steps & Semantics
 >
-
-&nbsp;
 **The Thematic Break element:(Horizontal Rule)**
 
 ```<hr>``` - doesn't have closing tag. represents a thematic break between paragraph-level elements. Pl: egy sztori vége,topic vége stb..
@@ -40,15 +37,12 @@
 **The Subscript element:**
 
 ```<sub></sub>``` - lentre "emelés"
-
-
 &nbsp;
 >
 > HTML: Next Steps & Semantics
 > 
 > Entity Codes
-
-&nbsp;
+> 
 **Website:** https://dev.w3.org/html5/html-author/charref
 
 - start with an ampersand & and end with a semicolon ;
@@ -89,7 +83,6 @@ less than : ```&gt;```
 >
 > VSCode Tool - Emmet
 >
-&nbsp;
 
 **Website** - https://docs.emmet.io/cheat-sheet/
 
