@@ -4,6 +4,7 @@
 > Inline Elements vs Block Elements
 >
 **Inline elements: fit in alonside other elements**
+
 **Block level element: take up a whole "block" of space**
 
 
