@@ -59,3 +59,25 @@ CopyRight jel: ```&copy;```
 
 less than : ```&gt;```
 
+
+>
+> HTML: Next Steps & Semantics
+>
+> Semantic Markup - too much ```<dev></dev>``` !!
+>
+
+"What purpose or role does that HTML element have?"
+
+**Pl:** Use more specific elements like:
+```
+<section></section>
+<footer></footer>
+<nav></nav> 
+<article></article>
+<main></main>
+<header></header>
+<aside></aside>
+<summary></summary>
+<details></details> 
+```
+
