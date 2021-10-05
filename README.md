@@ -108,7 +108,7 @@ less than : ```&gt;```
     <li></li> 
 </ul> 
 ```
-**ul>li.item$*5 = **
+**ul>li.item$*5 =**
 ```
 <ul> 
     <li class="item1"></li> 
