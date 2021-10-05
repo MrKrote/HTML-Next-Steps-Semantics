@@ -1,7 +1,7 @@
 # HTML-Next-Steps-Semantics
 > HTML: Next Steps & Semantics
+> 
 > Inline Elements vs Block Elements
->
 >
 **Inline elements: fit in alonside other elements**
 **Block level element: take up a whole "block" of space**
@@ -17,7 +17,8 @@
 
 ```<span></span>``` - allow to group content together and style it all at once. **Pl:** Redditen a Media,Discussion,Question fül.
 
->
+
+
 > HTML: Next Steps & Semantics
 >
 >
