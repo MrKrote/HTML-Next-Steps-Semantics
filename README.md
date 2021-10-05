@@ -16,7 +16,9 @@
 - Span: (INLINE ELEMENTS)
 
 ```<span></span>``` - allow to group content together and style it all at once. **Pl:** Redditen a Media,Discussion,Question fül.
+
 &nbsp;
+
 >
 > HTML: Next Steps & Semantics
 >
